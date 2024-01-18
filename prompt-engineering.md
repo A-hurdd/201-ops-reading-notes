@@ -6,7 +6,7 @@ https://chat.openai.com/share/d0da6260-f788-417c-85b5-e312a24d9e41
 ME: Explain how to LS swap a truck
 
 ChatGPT: 
-##Swapping an LS engine into a truck is a popular modification among automotive enthusiasts. Here's a general overview of the steps involved in an LS engine swap for a truck:
+## Swapping an LS engine into a truck is a popular modification among automotive enthusiasts. Here's a general overview of the steps involved in an LS engine swap for a truck:
 
 ### Research and Planning:
 
