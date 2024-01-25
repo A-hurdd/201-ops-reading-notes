@@ -44,33 +44,33 @@ Because in security and in it. In general, the limiting factors are gonna be you
 personnel, Right? How many people you have in your teams? And do they have the time to do all this?
 
 ### Backup Types
-- Normal/Full
+- ***Normal/Full***
 > Backs up everything
 
-- Incremental
+- ***Incremental***
 > All files changed since last incremental backup
 > Low backup Time/ High restore time
 
-- Differential
+- ***Differential***
 > All files changed since the last back up
 > Moderate backup/ restore time
 
 ### OffSite Backups
-- Hot Site
+- ***Hot Site***
 > Ready to take ofver for the failed production site immeadiatly.
 > The most expensive option
 
 If we blow that up to a data center. Imagine, you have one data center with all your servers, all your stuff that you need to run.
 And in order to build the hot site. For that you would pay for another duplicate exactly the same that has all the stuff you need ready to go right?
 
-- Cold Site
+- ***Cold Site***
 > Takes a long time to spin up
 > Less costly than Hot sites
 
  Cold site  is where, you have some of the things you need. But you still gotta put in some work to build it up and get back up and running.
 There's some things that have to be figured out, but is the cheapest one, because you don't have all the components and you dont have to front the money for all that stuff.
 
-- Warm Site
+- ***Warm Site***
 > Takes some time to spin up but not as long as a cold site
 > Middles the cost to maintain
 
@@ -83,7 +83,7 @@ and especially they might be they might be serving the same thing. So it's very 
 Think of Netflix right! Think of how many people go onto Netflix to watch their shows. Chances are at some point or another, there's millions of people on there, So they probably have biggroups of servers
 handling all that traffic. They all serve the same shows. They all serve the same kind of user experience, but they're kind of spreading out that load.
 
-So they're redundant. They all do the same. They all have the same job.
+***So they're redundant. They all do the same. They all have the same job.***
 
 But now we've kind of spread out that load into 10 servers. Let's say, instead of just one.
  That's that that idea of high availability.
