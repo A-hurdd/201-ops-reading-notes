@@ -31,3 +31,6 @@ How to Use System Restore in Windows _ https://www.lifewire.com/how-to-use-syste
 ---
 "***Open Command Prompt and type rstrui.exe in the Command Prompt window***. The System Restore wizard will open. Follow the instructions on the screen to complete the System Restore." [Source](https://www.lifewire.com/how-to-use-system-restore-in-windows-2626131)
 
+***What options are available if System Restore did not fix the problem?***
+---
+Try a different Restore point [Source](https://www.makeuseof.com/tag/3-check-system-restore-working/)
