@@ -75,7 +75,7 @@ There's some things that have to be figured out, but is the cheapest one, becaus
 > Middles the cost to maintain
 
 ### Systems Redundancy
-High Avalibility: Is achieved when redundancy is implemented incase the first server goes down.
+***High Avalibility***: Is achieved when redundancy is implemented incase the first server goes down.
 
 The main idea with redundancy is that you have 2 things that are ready to go.
 and especially they might be they might be serving the same thing. So it's very common with web servers, for example.
