@@ -91,3 +91,28 @@ So when we achieve this idea of high availability is when we implement that redu
 to be our single point of failure. So, for example, Netflix, they can probably lose 10 servers right and sure the load will be higher on the other ones.
 But the user never sees that, because there's other other servers there to kind of pick up that slack.
 
+***Failover***: Whatever's here in the middle is going to say, Hey, this thing is dead.
+So I'm going to go ahead and route. Them over here to N. 2, so she can keep watching Their show, and they will never notice that a changed happen. That is, that whole idea of Failover.
+***When the primary server goes down we can just handle the traffic upfront, send it somewhere else.*** So the user
+over here never notices that it happend.
+
+> We dive into the details of Ddos attacks in 401.
+
+***Cluster***: A set of servers that work together to deliver the same service
+
+### Comprehensive VS specific backups
+
+*More Comprehensive*
+
+***Bare Metal Backup***: Complete backup of an entire system, including the operating system, applications, settings, and data.
+
+***Image-based Backup***: Creating a complete image or copy of a specific system or disk at a specific point in time.
+
+***VM Snapshot***: an image capturing a virtual machine's current disk and memory space.
+
+
+*More Specific*
+
+***System restore point***: Snapshot of the system's config. settings, created by the operating system.
+
+***File Backups***: Copying individual files and folders, usually selected by the user, to a seperate storage location.
