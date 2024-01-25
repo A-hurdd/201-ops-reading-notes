@@ -34,3 +34,6 @@ How to Use System Restore in Windows _ https://www.lifewire.com/how-to-use-syste
 ***What options are available if System Restore did not fix the problem?***
 ---
 Try a different Restore point [Source](https://www.makeuseof.com/tag/3-check-system-restore-working/)
+
+## Things I want to know more about
+N/A The article and lecture did a great job covvering the rounds of system backups!
