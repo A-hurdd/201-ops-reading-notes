@@ -45,4 +45,24 @@ personnel, Right? How many people you have in your teams? And do they have the t
 
 ### Backup Types
 - Normal/Full
-> - Backs up everything
+> Backs up everything
+
+- Incremental
+> All files changed since last incremental backup
+> Low backup Time/ High restore time
+
+- Differential
+> All files changed since the last back up
+> Moderate backup/ restore time
+
+### OffSite Backups
+- Hot Site
+> Ready to take ofver for the failed production site immeadiatly.
+> The most expensive option
+
+If we blow that up to a data center. Imagine, you have one data center with all your servers, all your stuff that you need to run.
+And in order to build the hot site. For that you would pay for another duplicate exactly the same that has all the stuff you need ready to go right?
+
+- Cold Site
+> Takes a long time to spin up
+> Less costly than Hot sites
