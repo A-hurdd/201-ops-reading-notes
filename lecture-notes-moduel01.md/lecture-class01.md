@@ -66,3 +66,28 @@ And in order to build the hot site. For that you would pay for another duplicate
 - Cold Site
 > Takes a long time to spin up
 > Less costly than Hot sites
+
+ Cold site  is where, you have some of the things you need. But you still gotta put in some work to build it up and get back up and running.
+There's some things that have to be figured out, but is the cheapest one, because you don't have all the components and you dont have to front the money for all that stuff.
+
+- Warm Site
+> Takes some time to spin up but not as long as a cold site
+> Middles the cost to maintain
+
+### Systems Redundancy
+High Avalibility: Is achieved when redundancy is implemented incase the first server goes down.
+
+The main idea with redundancy is that you have 2 things that are ready to go.
+and especially they might be they might be serving the same thing. So it's very common with web servers, for example.
+
+Think of Netflix right! Think of how many people go onto Netflix to watch their shows. Chances are at some point or another, there's millions of people on there, So they probably have biggroups of servers
+handling all that traffic. They all serve the same shows. They all serve the same kind of user experience, but they're kind of spreading out that load.
+
+So they're redundant. They all do the same. They all have the same job.
+
+But now we've kind of spread out that load into 10 servers. Let's say, instead of just one.
+ That's that that idea of high availability.
+So when we achieve this idea of high availability is when we implement that redundancy. And now we're not relying on one server
+to be our single point of failure. So, for example, Netflix, they can probably lose 10 servers right and sure the load will be higher on the other ones.
+But the user never sees that, because there's other other servers there to kind of pick up that slack.
+
